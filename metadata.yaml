@@ -1,0 +1,36 @@
+_repo: The-Car-That-Went-AbroadMotoring-Through-the-Golden-Age_35068
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hale, Walter
+    birthdate: 1869
+    deathdate: 1917
+    gutenberg_agent_id: '37059'
+    url: http://www.gutenberg.org/2009/agents/37059
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Paine, Albert Bigelow
+    birthdate: 1861
+    deathdate: 1937
+    gutenberg_agent_id: '1076'
+    url: http://www.gutenberg.org/2009/agents/1076
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Bigelow_Paine
+description: ''
+gutenberg_issued: '2011-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35068'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Switzerland -- Description and travel'
+- !lcsh 'France -- Description and travel'
+- !lcc 'DC'
+- !lcc 'DQ'
+title: 'The Car That Went Abroad: Motoring Through the Golden Age'
+url: http://www.gutenberg.org/ebooks/35068
