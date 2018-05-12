@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1076
     wikipedia: http://en.wikipedia.org/wiki/Albert_Bigelow_Paine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35068#The-Car-That-Went-AbroadMotoring-Through-the-Golden-Age
 gutenberg_issued: '2011-01-25'
 gutenberg_type: Text
 identifiers:
